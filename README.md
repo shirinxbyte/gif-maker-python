@@ -34,9 +34,7 @@ python create_gif.py
 
 
 
-Made with ❤️ by Shirin
-
-````
+Made by Shirin
 
 Save this file.
 
