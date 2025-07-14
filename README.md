@@ -8,7 +8,7 @@ Takes your images and stitches them into an animated GIF — like a digital flip
 
 ## 📁 Files in this Project
 
-- `create_gif.py` — main Python code
+- `create_gif.py` — main Python code 
 - `my-gif.gif` — the final animated GIF
 - Your image files (e.g., `image1.png`, `image2.png`, etc.)
 
