@@ -1,7 +1,7 @@
 # 🎞️ GIF Creator with Python
 
 This is a beginner-friendly Python project that creates an animated GIF from multiple images using the `imageio` library.
-
+ 
 ## 🧠 What It Does
 
 Takes your images and stitches them into an animated GIF — like a digital flipbook!
