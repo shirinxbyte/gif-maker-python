@@ -6,7 +6,7 @@ This is a beginner-friendly Python project that creates an animated GIF from mul
 
 Takes your images and stitches them into an animated GIF — like a digital flipbook!
 
-## 📁 Files in this Project
+## 📁 Files in this Project 
 
 - `create_gif.py` — main Python code 
 - `my-gif.gif` — the final animated GIF
